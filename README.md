@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Miguel Santiago Castro Guerrero 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=	00FFA3&center=true&vCenter=true&width=440&lines=Estudiante+de+programación+💻;Apasionado+por+la+tecnología+🚀;Aprendiendo+día+a+día+📘;Fan+del+código+y+el+maní+🥜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00FFA3&center=true&vCenter=true&width=440&lines=Estudiante+de+programación+💻;Apasionado+por+la+tecnología+🚀;Aprendiendo+día+a+día+📘;Fan+del+código+y+el+maní+🥜" alt="Typing SVG" />
 </p>
 
 <p align="center">💡 <em>"Cada línea es una pasión que se siente"</em></p>
