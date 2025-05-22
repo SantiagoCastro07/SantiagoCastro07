@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=440&lines=Estudiante+de+programación+💻;Apasionado+por+la+tecnología+🚀;Aprendiendo+día+a+día+📘;Fan+del+código+y+el+maní+🥜" alt="Typing SVG" />
 </p>
 
-<p align="center">💡 <em>"Cada línea es una pasión que se siente"</em></p>
+<p align="center">💡 <em>"Yo daría mi vida por campuslands"</em></p>
 
 ---
 
