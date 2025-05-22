@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Miguel Santiago Castro Gurrero 👋</h1>
 
-<!--
-**SantiagoCastro07/SantiagoCastro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+programación+💻;Apasionado+por+la+tecnología+🚀;Aprendiendo+todos+los+días+📘;Fan+del+código+y+el+café+☕" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">💡 <em>"Codeo luego existo: cada línea es una clase, cada bug una lección."</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mí
+
+- 📍 Desde Cúcuta, Norte de Santander – Colombia 🇨🇴  
+- 🎓 Estudiante de ingeniería de software en el TdeA
+- 🧠 Aprendiendo Python, Git, etc.  
+- ☕ Me inspira el código y el maní
+
+---
+
+### 🛠️ Tech Stack
+
+#### Lenguajes  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### Herramientas  
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoCastro07&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoCastro07&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoCastro07&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+</p>
+
+---
+
+### 📈 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoCastro07&theme=tokyo-night&area=true" alt="activity graph" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- 📧 santiagocastro3110@gmail.com
+
+---
+
+<p align="center">¡Gracias por visitar mi perfil! 🚀</p>
