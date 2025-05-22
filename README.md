@@ -13,7 +13,7 @@
 - 📍 Desde Cúcuta, Norte de Santander – Colombia 🇨🇴  
 - 🎓 Estudiante de ingeniería de software en el TdeA
 - 🧠 Aprendiendo Python, Git, etc.  
-- 🥜 Me inspira el código y el maní
+- 🗣️ Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (básico-intermedio)
 
 ---
 
